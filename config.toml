@@ -1,0 +1,10 @@
+[server]
+# Workaround for Python 3.13 + watchdog issues on Windows.
+fileWatcherType = "none"
+
+[theme]
+base = "light"
+primaryColor = "#6C5CE7"
+backgroundColor = "#F3F4F6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
